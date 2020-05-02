@@ -1,6 +1,6 @@
 {
     "name": "buzzingpixel/twig-smartypants",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A Twig Smartypants filter",
     "authors": [
         {
@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": ">=7.1",
-        "twig/twig": "^2.5",
+        "twig/twig": "^2.5|^3.0",
         "michelf/php-smartypants": "^1.8",
         "buzzingpixel/corbomite-di": "^1.0"
     },
